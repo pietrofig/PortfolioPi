@@ -117,8 +117,9 @@ section{
   border-radius: 3em 0.5em 0.5em 3em;
   
 }
-a.menu:link{
+a{
     text-decoration: none;
+    color: inherit;
 }
 
 
